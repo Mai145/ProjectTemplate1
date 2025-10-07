@@ -10,7 +10,8 @@ namespace ProjectTemplate1
     {
        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is a test change for Git tracking!");
+
         }
     }
 }
